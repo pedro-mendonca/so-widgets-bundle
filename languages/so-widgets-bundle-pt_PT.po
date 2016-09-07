@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: SiteOrigin Widgets Bundle\n"
-"POT-Creation-Date: 2016-09-07 14:40+0100\n"
-"PO-Revision-Date: 2016-09-07 16:02+0100\n"
+"POT-Creation-Date: 2016-09-07 16:07+0100\n"
+"PO-Revision-Date: 2016-09-07 16:07+0100\n"
 "Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language: pt_PT\n"
@@ -2421,8 +2421,7 @@ msgid "Vimeo"
 msgstr "Vimeo"
 
 #: widgets/social-media-buttons/data/networks.php:242
-#, fuzzy
-msgid "Wordpress"
+msgid "WordPress"
 msgstr "WordPress"
 
 #: widgets/social-media-buttons/data/networks.php:248
@@ -2682,6 +2681,10 @@ msgstr "SiteOrigin"
 #. Author URI of the plugin/theme
 msgid "https://siteorigin.com"
 msgstr "https://siteorigin.com"
+
+#, fuzzy
+#~ msgid "Wordpress"
+#~ msgstr "WordPress"
 
 #~ msgid "H Tag"
 #~ msgstr "Etiqueta H"
