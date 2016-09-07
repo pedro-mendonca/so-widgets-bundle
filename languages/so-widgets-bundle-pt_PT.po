@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SiteOrigin Widgets Bundle\n"
 "POT-Creation-Date: 2016-09-07 14:40+0100\n"
-"PO-Revision-Date: 2016-09-07 14:42+0100\n"
+"PO-Revision-Date: 2016-09-07 16:02+0100\n"
 "Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language: pt_PT\n"
@@ -532,15 +532,13 @@ msgstr "Widgets SiteOrigin"
 #: so-widgets-bundle.php:443
 #, php-format
 msgid "%s was %s"
-msgstr "%s foi %s"
+msgstr "O %s foi %s"
 
 #: so-widgets-bundle.php:445
-#, fuzzy
 msgid "Activated"
 msgstr "activado"
 
 #: so-widgets-bundle.php:445
-#, fuzzy
 msgid "Deactivated"
 msgstr "desactivado"
 
