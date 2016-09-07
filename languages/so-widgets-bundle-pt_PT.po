@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SiteOrigin Widgets Bundle\n"
 "POT-Creation-Date: 2016-09-07 16:07+0100\n"
-"PO-Revision-Date: 2016-09-07 16:07+0100\n"
+"PO-Revision-Date: 2016-09-07 16:52+0100\n"
 "Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language: pt_PT\n"
@@ -219,7 +219,7 @@ msgstr "Adicionar"
 #: base/inc/fields/widget.class.php:36
 #, php-format
 msgid "%s does not exist"
-msgstr ""
+msgstr "%s não existe"
 
 #: base/inc/fields/widget.class.php:46
 #, php-format
@@ -239,6 +239,8 @@ msgstr ""
 msgid ""
 "This query returns <a href=\"#\" class=\"preview-query-posts\">%s posts</a>."
 msgstr ""
+"Esta consulta retorna <a href=\"#\" class=\"preview-query-posts\">%s "
+"conteúdos</a>."
 
 #: base/inc/post-selector.php:19 base/inc/post-selector.php:125
 msgid "Select posts"
@@ -253,8 +255,9 @@ msgid "Post type"
 msgstr "Tipo de conteúdo"
 
 #: base/inc/post-selector.php:123
+#, fuzzy
 msgid "Post in"
-msgstr ""
+msgstr "Conteúdo em"
 
 #: base/inc/post-selector.php:130 widgets/taxonomy/taxonomy.php:37
 msgid "Taxonomies"
@@ -823,8 +826,9 @@ msgid "Subject prefix"
 msgstr "Prefixo do assunto"
 
 #: widgets/contact/contact.php:74
+#, fuzzy
 msgid "Prefix added to all incoming email subjects."
-msgstr ""
+msgstr "Prefixo adicionado ao assunto de todos os emails recebidos."
 
 #: widgets/contact/contact.php:78
 msgid "Success message"
@@ -835,8 +839,9 @@ msgid "Message to display after message successfully sent."
 msgstr "Mensagem a mostrar após envio com sucesso."
 
 #: widgets/contact/contact.php:80
+#, fuzzy
 msgid "Thanks for contacting us. We'll get back to you shortly."
-msgstr ""
+msgstr "Obrigado por nos contactar. Entraremos em contacto consigo em breve."
 
 #: widgets/contact/contact.php:84
 msgid "Submit button text"
@@ -1609,7 +1614,7 @@ msgstr "Estradas locais"
 
 #: widgets/google-map/google-map.php:288
 msgid "Transit lines"
-msgstr ""
+msgstr "Linhas de trânsito"
 
 #: widgets/google-map/google-map.php:289
 msgid "Transit stations"
@@ -1629,35 +1634,35 @@ msgstr ""
 
 #: widgets/google-map/google-map.php:293
 msgid "Point of interest - Attractions"
-msgstr ""
+msgstr "Ponto de interesse - Atracções"
 
 #: widgets/google-map/google-map.php:294
 msgid "Point of interest - Business"
-msgstr ""
+msgstr "Ponto de interesse - Negócios"
 
 #: widgets/google-map/google-map.php:295
 msgid "Point of interest - Government"
-msgstr ""
+msgstr "Ponto de interesse - Governo"
 
 #: widgets/google-map/google-map.php:296
 msgid "Point of interest - Medical"
-msgstr ""
+msgstr "Ponto de interesse - Medicina"
 
 #: widgets/google-map/google-map.php:297
 msgid "Point of interest - Parks"
-msgstr ""
+msgstr "Ponto de interesse - Parques"
 
 #: widgets/google-map/google-map.php:298
 msgid "Point of interest - Places of worship"
-msgstr ""
+msgstr "Ponto de interesse - Lugares de culto"
 
 #: widgets/google-map/google-map.php:299
 msgid "Point of interest - Schools"
-msgstr ""
+msgstr "Ponto de interesse - Escolas"
 
 #: widgets/google-map/google-map.php:300
 msgid "Point of interest - Sports complexes"
-msgstr ""
+msgstr "Ponto de interesse - Complexos desportivos"
 
 #: widgets/google-map/google-map.php:305
 msgid "Select element type to style"
@@ -1668,7 +1673,6 @@ msgid "Geometry"
 msgstr "Geometria"
 
 #: widgets/google-map/google-map.php:308
-#, fuzzy
 msgid "Labels"
 msgstr "Legendas"
 
@@ -1678,13 +1682,15 @@ msgstr "Visível"
 
 #: widgets/google-map/google-map.php:327
 msgid "Directions"
-msgstr ""
+msgstr "Direcções"
 
 #: widgets/google-map/google-map.php:333
 msgid ""
 "Display a route on your map, with waypoints between your starting point and "
 "destination."
 msgstr ""
+"Mostra uma rota no seu mapa, com paragens entre o seu ponto de partida e "
+"destino."
 
 #: widgets/google-map/google-map.php:337
 msgid "Starting point"
@@ -1696,7 +1702,7 @@ msgstr "Destino"
 
 #: widgets/google-map/google-map.php:345
 msgid "Travel mode"
-msgstr ""
+msgstr "Modo de viagem"
 
 #: widgets/google-map/google-map.php:348
 msgid "Driving"
@@ -1724,34 +1730,36 @@ msgstr "Evitar portagens"
 
 #: widgets/google-map/google-map.php:364
 msgid "Waypoints"
-msgstr ""
+msgstr "Paragens"
 
 #: widgets/google-map/google-map.php:365
 msgid "Waypoint"
-msgstr ""
+msgstr "Paragem"
 
 #: widgets/google-map/google-map.php:375 widgets/testimonial/testimonial.php:65
-#, fuzzy
 msgid "Location"
-msgstr "Local"
+msgstr "Localização"
 
 #: widgets/google-map/google-map.php:380
 msgid "Stopover"
-msgstr ""
+msgstr "Paragem"
 
 #: widgets/google-map/google-map.php:381
 msgid "Whether or not this is a stop on the route or just a route preference."
 msgstr ""
+"Seja uma paragem ou apenas um ponto de passagem preferencial para a sua rota."
 
 #: widgets/google-map/google-map.php:387
 msgid "Optimize waypoints"
-msgstr ""
+msgstr "Optimizar paragens"
 
 #: widgets/google-map/google-map.php:389
 msgid ""
 "Allow the Google Maps service to reorder waypoints for the shortest "
 "travelling distance."
 msgstr ""
+"Permite ao serviço Google Maps reordenar as paragens para a obter o percurso "
+"mais curto."
 
 #: widgets/google-map/google-map.php:494
 msgid "Custom Map"
@@ -1771,7 +1779,7 @@ msgstr "Cabeçalho"
 
 #: widgets/headline/headline.php:43 widgets/headline/headline.php:101
 msgid "HTML Tag"
-msgstr ""
+msgstr "Etiqueta HTML"
 
 #: widgets/headline/headline.php:46 widgets/headline/headline.php:104
 msgid "H1"
@@ -1799,7 +1807,7 @@ msgstr "H6"
 
 #: widgets/headline/headline.php:52 widgets/headline/headline.php:110
 msgid "Paragraph"
-msgstr ""
+msgstr "Parágrafo"
 
 #: widgets/headline/headline.php:66 widgets/headline/headline.php:124
 msgid "Font Size"
@@ -1812,16 +1820,16 @@ msgstr "Alinhamento"
 
 #: widgets/headline/headline.php:81 widgets/headline/headline.php:139
 msgid "Line Height"
-msgstr ""
+msgstr "Altura da linha"
 
 #: widgets/headline/headline.php:85 widgets/headline/headline.php:143
 #: widgets/headline/headline.php:198
 msgid "Top and Bottom Margin"
-msgstr ""
+msgstr "Margem superior e inferior"
 
 #: widgets/headline/headline.php:92
 msgid "Sub headline"
-msgstr ""
+msgstr "Subtítulo"
 
 #: widgets/headline/headline.php:150 widgets/headline/headline.php:209
 msgid "Divider"
@@ -1829,11 +1837,12 @@ msgstr "Divisória"
 
 #: widgets/headline/headline.php:176
 msgid "Thickness"
-msgstr ""
+msgstr "Espessura"
 
 #: widgets/headline/headline.php:193
+#, fuzzy
 msgid "Divider Width"
-msgstr ""
+msgstr "Largura da divisória"
 
 #: widgets/headline/headline.php:206
 msgid "Element Order"
@@ -1841,7 +1850,7 @@ msgstr ""
 
 #: widgets/headline/headline.php:210
 msgid "Sub Headline"
-msgstr ""
+msgstr "Subtítulo"
 
 #: widgets/headline/headline.php:217 widgets/hero/hero.php:204
 #, fuzzy
