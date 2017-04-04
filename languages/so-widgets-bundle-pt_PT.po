@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SiteOrigin Widgets Bundle\n"
 "POT-Creation-Date: 2016-09-20 09:57+0100\n"
-"PO-Revision-Date: 2017-02-18 12:33+0000\n"
+"PO-Revision-Date: 2017-04-04 16:49+0100\n"
 "Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.0\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
@@ -1869,7 +1869,8 @@ msgstr "Usar FitText"
 
 #: widgets/headline/headline.php:218 widgets/hero/hero.php:205
 msgid "Dynamically adjust your heading font size based on screen size."
-msgstr "Ajuste dinâmico do tamanho da fonte com base no tamanho do ecrã."
+msgstr ""
+"Ajuste dinâmico do tamanho da fonte do título com base no tamanho do ecrã."
 
 #: widgets/hero/hero.php:18
 msgid "SiteOrigin Hero"
@@ -1967,19 +1968,19 @@ msgstr ""
 
 #: widgets/hero/hero.php:186
 msgid "Heading font"
-msgstr "Fonte do cabeçalho"
+msgstr "Fonte do título"
 
 #: widgets/hero/hero.php:192 widgets/layout-slider/layout-slider.php:154
 msgid "Heading color"
-msgstr "Cor do cabeçalho"
+msgstr "Cor do título"
 
 #: widgets/hero/hero.php:198 widgets/layout-slider/layout-slider.php:160
 msgid "Heading size"
-msgstr "Tamanho do cabeçalho"
+msgstr "Tamanho do título"
 
 #: widgets/hero/hero.php:211 widgets/layout-slider/layout-slider.php:166
 msgid "Heading shadow intensity"
-msgstr "Intensidade da sombra do cabeçalho"
+msgstr "Intensidade da sombra do título"
 
 #: widgets/hero/hero.php:219 widgets/layout-slider/layout-slider.php:174
 msgid "Text size"
